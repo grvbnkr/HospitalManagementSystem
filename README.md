@@ -17,13 +17,14 @@ Add new doctor records (Name, Specialization, Phone, Email).
 View a list of all registered doctors.
 Update existing doctor details.
 Delete doctor records.
+
 Patient Management:
 Add new patient records (Name, Age, Gender, Phone, Address).
 View a list of all registered patients.
 Update existing patient details.
 Delete patient records.
-Appointment Management:
 
+Appointment Management:
 Schedule new appointments, linking a patient to a doctor on a specific date and time.
 
 View a list of all scheduled appointments.
