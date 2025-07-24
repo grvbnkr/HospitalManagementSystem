@@ -45,22 +45,5 @@ MySQL Workbench (or any MySQL client like DBeaver, HeidiSQL): For database manag
 
 Project Structure
 The project follows a simple layered architecture:
+<img width="475" height="468" alt="image" src="https://github.com/user-attachments/assets/e6c3a18e-a514-4df4-bacb-1a02da50ad15" />
 
-HospitalManagementSystem/
-├── src/
-│   └── main/
-│       └── java/
-│           └── com/
-│               └── hms/
-│                   ├── app/
-│                   │   └── HospitalApp.java             |
-│                   ├── dao/
-│                   │   ├── AppointmentDAO.java     
-│                   │   ├── DoctorDAO.java          
-│                   │   └── PatientDAO.java     
-│                   ├── model/
-│                   │   ├── Appointment.java
-│                   │   ├── Doctor.java          
-│                   │   └── Patient.java           
-│                   └── util/
-│                       └── DBConnection.java                             └── README.md                                  
