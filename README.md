@@ -45,6 +45,6 @@ MySQL Workbench (or any MySQL client like DBeaver, HeidiSQL): For database manag
 
 Project Structure
 The project follows a simple layered architecture:
-<img width="471" height="481" alt="image" src="https://github.com/user-attachments/assets/b84f0039-d4e6-47ae-8e1f-23d9761faba7" />
+<img width="455" height="503" alt="image" src="https://github.com/user-attachments/assets/34e6bd8a-374e-489a-a7b8-5be0e8d5f3f0" />
 
 
